@@ -1,0 +1,38 @@
+Nero: Fully Animated Cursor Set by BlueGuy
+
+Please Download or Purchase only on my Official DeviantArt page: www. deviantart.com/blooguy to have access to future updates for free.
+
+Add me to your watchlists to get notifications!
+
+
+
+CURRENT VERSION: v2
+
+UPDATE LOG:
+
+-------------------
+v2 - Aug 24, 2024
+-------------------
+
+GENERAL:
+- Frame optimizations.
+- Added 7 new color variations.
+- Reduced transparency for "Text - Vanish".
+- Added new bonus cursors: Normal - Shrink, Working and Busy - Radial, and Text - Side Glow.
+- Shortened "Bonus Cursors" folder name.
+- Color and contrast corrections.
+
+PREMIUM:
+- Added an exclusive "Nero - RGB" version for the premium set.
+- Added 6 new bonus cursors; Normal - Shimmer, Working and Busy - Sonar, Unavailable - Blinds, Text - I-Beam, and Link - Pulse.
+- Increased transparency for all "Holo" resizes.
+- Fixed clipping for "HD Hand - Point".
+- Added a static version for "Text - I-Beam".
+
+
+-------------------
+v1 - Mar 27, 2021
+-------------------
+
+
+- Released.
